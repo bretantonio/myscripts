@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name         Coin Miner autosave
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  auto save coins
 // @author       Bret Joseph
-// @homepageURL  https://raw.githubusercontent.com/bretantonio/myscripts/master/coinminer.js
+// @homepageURL  https://github.com/bretantonio/myscripts/blob/master/coinminer.js
 // @updateURL    https://raw.githubusercontent.com/bretantonio/myscripts/master/coinminer.js
-// @match        https://coinminer.mobi/terminal
-// @match        http://coinminer.mobi/terminal
-// @match        https://ltcminer.pw/terminal
-// @match        http://ltcminer.pw/terminal
-// @match        https://ethminer.cash/terminal
-// @match        http://ethminer.cash/terminal
+// @match        https://bitcoin.cpucap.com/terminal
+// @match        http://bitcoin.cpucap.com/terminal
+// @match        https://litecoin.cpucap.com/terminal
+// @match        http://litecoin.cpucap.com/terminal
+// @match        https://ethereum.cpucap.com/terminal
+// @match        http://ethereum.cpucap.com/terminal
 // @grant        none
 // ==/UserScript==
 
