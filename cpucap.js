@@ -4,8 +4,8 @@
 // @version      0.1.3
 // @description  auto save coins
 // @author       Bret Joseph
-// @homepageURL  https://github.com/bretantonio/myscripts/blob/master/coinminer.js
-// @updateURL    https://raw.githubusercontent.com/bretantonio/myscripts/master/coinminer.js
+// @homepageURL  https://github.com/bretantonio/myscripts/blob/master/cpucap.js
+// @updateURL    https://raw.githubusercontent.com/bretantonio/myscripts/master/cpucap.js
 // @match        http*://*.cpucap.org/terminal
 // @grant        none
 // ==/UserScript==
