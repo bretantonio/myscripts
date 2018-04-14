@@ -6,7 +6,7 @@
 // @author       Bret Joseph
 // @homepageURL  https://github.com/bretantonio/myscripts/blob/master/coinminer.js
 // @updateURL    https://raw.githubusercontent.com/bretantonio/myscripts/master/coinminer.js
-// @match        http*://*cpucap.org/terminal
+// @match        http*://*.cpucap.org/terminal
 // @grant        none
 // ==/UserScript==
 
